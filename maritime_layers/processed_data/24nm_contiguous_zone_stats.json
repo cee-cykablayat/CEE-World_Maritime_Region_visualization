@@ -1,0 +1,13 @@
+{
+  "name": "24NM Contiguous Zone",
+  "total_features": 220,
+  "total_area_km2": 8746172.0,
+  "unique_territories": 220,
+  "crs": "EPSG:4326",
+  "bounds": [
+    -180.0,
+    -56.920887852092676,
+    180.0,
+    84.07369963423773
+  ]
+}

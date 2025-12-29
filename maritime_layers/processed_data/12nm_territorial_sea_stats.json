@@ -1,0 +1,13 @@
+{
+  "name": "12NM Territorial Sea",
+  "total_features": 230,
+  "total_area_km2": 8996335.0,
+  "unique_territories": 230,
+  "crs": "EPSG:4326",
+  "bounds": [
+    -180.0,
+    -56.7252897416281,
+    180.0,
+    83.87438148676954
+  ]
+}

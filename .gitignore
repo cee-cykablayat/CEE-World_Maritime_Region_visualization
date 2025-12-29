@@ -1,0 +1,7 @@
+# Clean branch ignoring large HTML and boundary datasets
+*.html
+*.zip
+World_Boundaries/
+World_EEZ_v12_20231025/
+World_EEZ_v12_20231025_gpkg/
+.ipynb_checkpoints/

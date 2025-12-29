@@ -1,0 +1,13 @@
+{
+  "name": "Exclusive Economic Zone",
+  "total_features": 285,
+  "total_area_km2": 140775904.0,
+  "unique_territories": 285,
+  "crs": "EPSG:4326",
+  "bounds": [
+    -180.0,
+    -62.78834217149148,
+    180.0,
+    86.99388132286498
+  ]
+}
