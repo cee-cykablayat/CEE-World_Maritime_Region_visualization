@@ -5,3 +5,51 @@ World_Boundaries/
 World_EEZ_v12_20231025/
 World_EEZ_v12_20231025_gpkg/
 .ipynb_checkpoints/
+
+# Large notebook files - exceeding GitHub limits (>100MB)
+FAO_area_visualization.ipynb
+world_contiguous_zones.ipynb
+world_territorial_sea.ipynb
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
