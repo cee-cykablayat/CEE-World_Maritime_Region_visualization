@@ -1,0 +1,23 @@
+{
+  "name": "Ports Data",
+  "total_ports": 106,
+  "ports_by_state": {
+    "Maharashtra": 45,
+    "Gujarat": 33,
+    "Kerala": 13,
+    "Karnataka": 10,
+    "Goa": 5
+  },
+  "port_categories": {
+    "major_ports": 14,
+    "verified_ports": 23,
+    "regular_ports": 69
+  },
+  "crs": "EPSG:4326",
+  "bounds": {
+    "north": 23.7,
+    "south": 8.3725,
+    "east": 79.9309,
+    "west": 68.53
+  }
+}

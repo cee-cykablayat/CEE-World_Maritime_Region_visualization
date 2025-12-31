@@ -1,0 +1,2973 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3496,
+          22.8227
+        ]
+      },
+      "properties": {
+        "Port_Name": "Mandvi",
+        "lat": 22.8227,
+        "lon": 69.3496,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 1,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.4529,
+          22.9574
+        ]
+      },
+      "properties": {
+        "Port_Name": "Navlakhi",
+        "lat": 22.9574,
+        "lon": 70.4529,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 2,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.04363055555555,
+          22.501430555555554
+        ]
+      },
+      "properties": {
+        "Port_Name": "Bedi",
+        "lat": 22.501430555555554,
+        "lon": 70.04363055555555,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 3,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.84158055555555,
+          22.43218055555556
+        ]
+      },
+      "properties": {
+        "Port_Name": "Sikka",
+        "lat": 22.43218055555556,
+        "lon": 69.84158055555555,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 4,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.36388888888888,
+          20.86555555555556
+        ]
+      },
+      "properties": {
+        "Port_Name": "Jafarabad",
+        "lat": 20.86555555555556,
+        "lon": 71.36388888888888,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 5,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0833,
+          22.4667
+        ]
+      },
+      "properties": {
+        "Port_Name": "Okha",
+        "lat": 22.4667,
+        "lon": 69.0833,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 6,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5887,
+          21.6214
+        ]
+      },
+      "properties": {
+        "Port_Name": "Porbandar",
+        "lat": 21.6214,
+        "lon": 69.5887,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 7,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2308,
+          21.7669
+        ]
+      },
+      "properties": {
+        "Port_Name": "Bhavnagar",
+        "lat": 21.7669,
+        "lon": 72.2308,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 8,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.993,
+          21.712
+        ]
+      },
+      "properties": {
+        "Port_Name": "Bharuch",
+        "lat": 21.712,
+        "lon": 72.993,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 9,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73555555555555,
+          21.13888888888889
+        ]
+      },
+      "properties": {
+        "Port_Name": "Magdalla",
+        "lat": 21.13888888888889,
+        "lon": 72.73555555555555,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 10,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.53,
+          23.7
+        ]
+      },
+      "properties": {
+        "Port_Name": "Koteshwar",
+        "lat": 23.7,
+        "lon": 68.53,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 11,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.61,
+          23.24
+        ]
+      },
+      "properties": {
+        "Port_Name": "Jakhau",
+        "lat": 23.24,
+        "lon": 68.61,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 12,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.279,
+          22.7239
+        ]
+      },
+      "properties": {
+        "Port_Name": "Jodia",
+        "lat": 22.7239,
+        "lon": 70.279,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 13,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6,
+          22.31
+        ]
+      },
+      "properties": {
+        "Port_Name": "Salaya",
+        "lat": 22.31,
+        "lon": 69.6,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 14,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2333,
+          22.3166
+        ]
+      },
+      "properties": {
+        "Port_Name": "Pindhara",
+        "lat": 22.3166,
+        "lon": 69.2333,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 15,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.11722222222221,
+          22.449444444444445
+        ]
+      },
+      "properties": {
+        "Port_Name": "Beyt",
+        "lat": 22.449444444444445,
+        "lon": 69.11722222222221,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "a significant island port",
+        "also_known_as": "Beyt Dwarka (or Bet Dwarka),",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 16,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.46666666666667,
+          23.460833333333333
+        ]
+      },
+      "properties": {
+        "Port_Name": "Rupen",
+        "lat": 23.460833333333333,
+        "lon": 71.46666666666667,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 17,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.10694444444444,
+          21.10888888888889
+        ]
+      },
+      "properties": {
+        "Port_Name": "Mangrol ",
+        "lat": 21.10888888888889,
+        "lon": 70.10694444444444,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 18,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82705,
+          20.68983888888889
+        ]
+      },
+      "properties": {
+        "Port_Name": "Madhawad",
+        "lat": 20.68983888888889,
+        "lon": 70.82705,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Madhavad",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 19,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.08138888888888,
+          20.742222222222225
+        ]
+      },
+      "properties": {
+        "Port_Name": "Navabandar",
+        "lat": 20.742222222222225,
+        "lon": 71.08138888888888,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 20,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.79,
+          22.85
+        ]
+      },
+      "properties": {
+        "Port_Name": "Rajpara",
+        "lat": 22.85,
+        "lon": 70.79,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Port Rajpara\" in Gujarat; you might be thinking of Navlakhi Port",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 21,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.15,
+          21.07
+        ]
+      },
+      "properties": {
+        "Port_Name": "Mahuva",
+        "lat": 21.07,
+        "lon": 72.15,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 22,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1,
+          21.7
+        ]
+      },
+      "properties": {
+        "Port_Name": "Talaja",
+        "lat": 21.7,
+        "lon": 72.1,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 23,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2761111111111,
+          21.68805555555556
+        ]
+      },
+      "properties": {
+        "Port_Name": "Ghogha",
+        "lat": 21.68805555555556,
+        "lon": 72.2761111111111,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 24,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5843,
+          21.7132
+        ]
+      },
+      "properties": {
+        "Port_Name": "Dahej",
+        "lat": 21.7132,
+        "lon": 72.5843,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 25,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          21.36
+        ]
+      },
+      "properties": {
+        "Port_Name": "Bhagwa",
+        "lat": 21.36,
+        "lon": 72.65,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 26,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8427,
+          20.8234
+        ]
+      },
+      "properties": {
+        "Port_Name": "Onjal",
+        "lat": 20.8234,
+        "lon": 72.8427,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 27,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.77,
+          20.93
+        ]
+      },
+      "properties": {
+        "Port_Name": "Vansi-Borsi ",
+        "lat": 20.93,
+        "lon": 72.77,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 28,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95,
+          20.75
+        ]
+      },
+      "properties": {
+        "Port_Name": "Billimora",
+        "lat": 20.75,
+        "lon": 72.95,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 29,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0833,
+          20.5
+        ]
+      },
+      "properties": {
+        "Port_Name": "Valsad",
+        "lat": 20.5,
+        "lon": 73.0833,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 30,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89750000000001,
+          20.51222222222222
+        ]
+      },
+      "properties": {
+        "Port_Name": "Umarsadi",
+        "lat": 20.51222222222222,
+        "lon": 72.89750000000001,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 31,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8899466,
+          21.0243434
+        ]
+      },
+      "properties": {
+        "Port_Name": "Maroli",
+        "lat": 21.0243434,
+        "lon": 72.8899466,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 32,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.76722222222222,
+          20.174444444444447
+        ]
+      },
+      "properties": {
+        "Port_Name": "Umergaon",
+        "lat": 20.174444444444447,
+        "lon": 72.76722222222222,
+        "state": "Gujarat",
+        "location": "Gujrat",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 33,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8,
+          19.9666
+        ]
+      },
+      "properties": {
+        "Port_Name": "Dahanu",
+        "lat": 19.9666,
+        "lon": 72.8,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 1,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7946403,
+          21.1616527
+        ]
+      },
+      "properties": {
+        "Port_Name": "Nawapur",
+        "lat": 21.1616527,
+        "lon": 73.7946403,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 2,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7023,
+          19.725
+        ]
+      },
+      "properties": {
+        "Port_Name": "Satpati",
+        "lat": 19.725,
+        "lon": 72.7023,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Satpati is a significant fishing village located in the Palghar district",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 3,
+        "has_description": true,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7325,
+          19.46583333333333
+        ]
+      },
+      "properties": {
+        "Port_Name": "Arnala",
+        "lat": 19.46583333333333,
+        "lon": 72.7325,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "(Arnala Fort/Island",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 4,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92,
+          19.0
+        ]
+      },
+      "properties": {
+        "Port_Name": "Datiware",
+        "lat": 19.0,
+        "lon": 72.92,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "JNPT (Nhava Sheva)",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 5,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05,
+          19.29
+        ]
+      },
+      "properties": {
+        "Port_Name": "Bhiwandi",
+        "lat": 19.29,
+        "lon": 73.05,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 6,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8,
+          19.2
+        ]
+      },
+      "properties": {
+        "Port_Name": "Manori ",
+        "lat": 19.2,
+        "lon": 72.8,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Manori Creek area",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 7,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13,
+          19.24
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kalyan",
+        "lat": 19.24,
+        "lon": 73.13,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Ulhas River, Thane District, Maharashtra.",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 8,
+        "has_description": true,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8,
+          19.5
+        ]
+      },
+      "properties": {
+        "Port_Name": "Thane",
+        "lat": 19.5,
+        "lon": 72.8,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Thane Coast,\" \"Vasai Creek,\" or \"Palghar Maharashtra\"",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 9,
+        "has_description": true,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.813423,
+          19.135094
+        ]
+      },
+      "properties": {
+        "Port_Name": "Versova",
+        "lat": 19.135094,
+        "lon": 72.813423,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 10,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81,
+          19.03
+        ]
+      },
+      "properties": {
+        "Port_Name": "Bandra",
+        "lat": 19.03,
+        "lon": 72.81,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 11,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93,
+          18.93
+        ]
+      },
+      "properties": {
+        "Port_Name": "Ulwa-Belapur",
+        "lat": 18.93,
+        "lon": 72.93,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 12,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96,
+          18.99
+        ]
+      },
+      "properties": {
+        "Port_Name": "Panvel ",
+        "lat": 18.99,
+        "lon": 72.96,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 13,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9,
+          18.9
+        ]
+      },
+      "properties": {
+        "Port_Name": "More",
+        "lat": 18.9,
+        "lon": 72.9,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Jawaharlal Nehru Port Trust (JNPT) --- Requires Validation",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 14,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88194444444444,
+          18.80305555555556
+        ]
+      },
+      "properties": {
+        "Port_Name": "Mandwa",
+        "lat": 18.80305555555556,
+        "lon": 72.88194444444444,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 15,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97,
+          18.85
+        ]
+      },
+      "properties": {
+        "Port_Name": "Karanja",
+        "lat": 18.85,
+        "lon": 72.97,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 16,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.968,
+          18.875
+        ]
+      },
+      "properties": {
+        "Port_Name": "Rewas",
+        "lat": 18.875,
+        "lon": 72.968,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 17,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8,
+          18.6
+        ]
+      },
+      "properties": {
+        "Port_Name": "Alibag",
+        "lat": 18.6,
+        "lon": 72.8,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 18,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02,
+          18.7
+        ]
+      },
+      "properties": {
+        "Port_Name": "Dharamtar",
+        "lat": 18.7,
+        "lon": 73.02,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Dharamtar, Raigad, Maharashtra, India.",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 19,
+        "has_description": true,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92472222222223,
+          18.5375
+        ]
+      },
+      "properties": {
+        "Port_Name": "Revdanda",
+        "lat": 18.5375,
+        "lon": 72.92472222222223,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 20,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0,
+          18.0
+        ]
+      },
+      "properties": {
+        "Port_Name": "Borli/Mandla",
+        "lat": 18.0,
+        "lon": 73.0,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Alibaug/Murud in Raigad District ----- Requires Validation",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 21,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.68722222222223,
+          19.773055555555555
+        ]
+      },
+      "properties": {
+        "Port_Name": "Nandgaon",
+        "lat": 19.773055555555555,
+        "lon": 72.68722222222223,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 22,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.964,
+          18.299
+        ]
+      },
+      "properties": {
+        "Port_Name": "Murud-Janjira",
+        "lat": 18.299,
+        "lon": 72.964,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 23,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96441111111112,
+          18.299916666666668
+        ]
+      },
+      "properties": {
+        "Port_Name": "Mandad",
+        "lat": 18.299916666666668,
+        "lon": 72.96441111111112,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Janjira Fort",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 24,
+        "has_description": true,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01043,
+          18.05874
+        ]
+      },
+      "properties": {
+        "Port_Name": "Shriwardhan",
+        "lat": 18.05874,
+        "lon": 73.01043,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 25,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.933,
+          18.95
+        ]
+      },
+      "properties": {
+        "Port_Name": "Bankot",
+        "lat": 18.95,
+        "lon": 72.933,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 26,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0612,
+          17.9224
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kelshi",
+        "lat": 17.9224,
+        "lon": 73.0612,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 27,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0967,
+          17.8134
+        ]
+      },
+      "properties": {
+        "Port_Name": "Harnai",
+        "lat": 17.8134,
+        "lon": 73.0967,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 28,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1571,
+          17.5512
+        ]
+      },
+      "properties": {
+        "Port_Name": "Dabhol",
+        "lat": 17.5512,
+        "lon": 73.1571,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 29,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2085,
+          17.4411
+        ]
+      },
+      "properties": {
+        "Port_Name": "Palshet",
+        "lat": 17.4411,
+        "lon": 73.2085,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 30,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7279,
+          19.4982
+        ]
+      },
+      "properties": {
+        "Port_Name": "Borya",
+        "lat": 19.4982,
+        "lon": 76.7279,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 31,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2238,
+          17.2926
+        ]
+      },
+      "properties": {
+        "Port_Name": "Jaigad",
+        "lat": 17.2926,
+        "lon": 73.2238,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 32,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9309,
+          21.4068
+        ]
+      },
+      "properties": {
+        "Port_Name": "Tiwri-Varoda",
+        "lat": 21.4068,
+        "lon": 79.9309,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 33,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3149,
+          16.808
+        ]
+      },
+      "properties": {
+        "Port_Name": "Purnagad",
+        "lat": 16.808,
+        "lon": 73.3149,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 34,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5178,
+          16.656
+        ]
+      },
+      "properties": {
+        "Port_Name": "Jaitapur",
+        "lat": 16.656,
+        "lon": 73.5178,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 35,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3374,
+          16.5557
+        ]
+      },
+      "properties": {
+        "Port_Name": "Vijaydurg",
+        "lat": 16.5557,
+        "lon": 73.3374,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 36,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3778,
+          16.3735
+        ]
+      },
+      "properties": {
+        "Port_Name": "Deogad",
+        "lat": 16.3735,
+        "lon": 73.3778,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 37,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.449,
+          16.1908
+        ]
+      },
+      "properties": {
+        "Port_Name": "Achara",
+        "lat": 16.1908,
+        "lon": 73.449,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "Sindhudurg district , Coastal Port",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "major",
+        "port_order": 38,
+        "has_description": true,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.42,
+          16.057
+        ]
+      },
+      "properties": {
+        "Port_Name": "Malvan",
+        "lat": 16.057,
+        "lon": 73.42,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 39,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.55,
+          15.95
+        ]
+      },
+      "properties": {
+        "Port_Name": "Niwti",
+        "lat": 15.95,
+        "lon": 73.55,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 40,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.642,
+          15.863
+        ]
+      },
+      "properties": {
+        "Port_Name": "Vengurla",
+        "lat": 15.863,
+        "lon": 73.642,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 41,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7,
+          15.95
+        ]
+      },
+      "properties": {
+        "Port_Name": "Redi",
+        "lat": 15.95,
+        "lon": 73.7,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 42,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.45,
+          16.1
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kiranpani",
+        "lat": 16.1,
+        "lon": 73.45,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 43,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3167,
+          16.9833
+        ]
+      },
+      "properties": {
+        "Port_Name": "Ratnagiri",
+        "lat": 16.9833,
+        "lon": 73.3167,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 44,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.967,
+          18.367
+        ]
+      },
+      "properties": {
+        "Port_Name": "Dighi",
+        "lat": 18.367,
+        "lon": 72.967,
+        "state": "Maharashtra",
+        "location": "Maharashtra",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 45,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7996,
+          15.4826
+        ]
+      },
+      "properties": {
+        "Port_Name": "Panaji",
+        "lat": 15.4826,
+        "lon": 73.7996,
+        "state": "Goa",
+        "location": "Goa",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 1,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.826,
+          15.615
+        ]
+      },
+      "properties": {
+        "Port_Name": "Chapora",
+        "lat": 15.615,
+        "lon": 73.826,
+        "state": "Goa",
+        "location": "Goa",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 2,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.989,
+          15.303
+        ]
+      },
+      "properties": {
+        "Port_Name": "Betul",
+        "lat": 15.303,
+        "lon": 73.989,
+        "state": "Goa",
+        "location": "Goa",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 3,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.005,
+          14.992
+        ]
+      },
+      "properties": {
+        "Port_Name": "Talpona",
+        "lat": 14.992,
+        "lon": 74.005,
+        "state": "Goa",
+        "location": "Goa",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 4,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.821,
+          15.713
+        ]
+      },
+      "properties": {
+        "Port_Name": "Tiracol",
+        "lat": 15.713,
+        "lon": 73.821,
+        "state": "Goa",
+        "location": "Goa",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 5,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8123,
+          12.9273
+        ]
+      },
+      "properties": {
+        "Port_Name": "Mangalore",
+        "lat": 12.9273,
+        "lon": 74.8123,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 1,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.701,
+          13.361
+        ]
+      },
+      "properties": {
+        "Port_Name": "Malpe",
+        "lat": 13.361,
+        "lon": 74.701,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 2,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.72,
+          13.45
+        ]
+      },
+      "properties": {
+        "Port_Name": "Hangarkatta",
+        "lat": 13.45,
+        "lon": 74.72,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 3,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.683,
+          13.633
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kundapur",
+        "lat": 13.633,
+        "lon": 74.683,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 4,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7,
+          14.0
+        ]
+      },
+      "properties": {
+        "Port_Name": "Bhatkal",
+        "lat": 14.0,
+        "lon": 74.7,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 5,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4439,
+          14.2798
+        ]
+      },
+      "properties": {
+        "Port_Name": "Honavar",
+        "lat": 14.2798,
+        "lon": 74.4439,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 6,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3167,
+          14.5833
+        ]
+      },
+      "properties": {
+        "Port_Name": "Tadri",
+        "lat": 14.5833,
+        "lon": 74.3167,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 7,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5,
+          14.6333
+        ]
+      },
+      "properties": {
+        "Port_Name": "Belekeri",
+        "lat": 14.6333,
+        "lon": 74.5,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 8,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1167,
+          14.8333
+        ]
+      },
+      "properties": {
+        "Port_Name": "Karwar",
+        "lat": 14.8333,
+        "lon": 74.1167,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 9,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6333,
+          13.1333
+        ]
+      },
+      "properties": {
+        "Port_Name": "Padubidri",
+        "lat": 13.1333,
+        "lon": 74.6333,
+        "state": "Karnataka",
+        "location": "Karnataka",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 10,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1667,
+          9.5
+        ]
+      },
+      "properties": {
+        "Port_Name": "Alappuzha",
+        "lat": 9.5,
+        "lon": 76.1667,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 1,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5833,
+          11.8333
+        ]
+      },
+      "properties": {
+        "Port_Name": "Vadakara",
+        "lat": 11.8333,
+        "lon": 75.5833,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 2,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3833,
+          11.8667
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kannur",
+        "lat": 11.8667,
+        "lon": 75.3833,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 3,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0,
+          12.5
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kasargode",
+        "lat": 12.5,
+        "lon": 75.0,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 4,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2167,
+          10.2167
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kodungallore",
+        "lat": 10.2167,
+        "lon": 76.2167,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 5,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9167,
+          10.7833
+        ]
+      },
+      "properties": {
+        "Port_Name": "Ponnani",
+        "lat": 10.7833,
+        "lon": 75.9167,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 6,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4833,
+          11.75
+        ]
+      },
+      "properties": {
+        "Port_Name": "Thalassery",
+        "lat": 11.75,
+        "lon": 75.4833,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 7,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95,
+          8.4667
+        ]
+      },
+      "properties": {
+        "Port_Name": "Thiruvananthapuram",
+        "lat": 8.4667,
+        "lon": 76.95,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 8,
+        "has_description": false,
+        "has_source": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5667,
+          8.8833
+        ]
+      },
+      "properties": {
+        "Port_Name": "Quilon",
+        "lat": 8.8833,
+        "lon": 76.5667,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 9,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7,
+          11.1667
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kozhikode/Beypore",
+        "lat": 11.1667,
+        "lon": 75.7,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 10,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.55,
+          8.95
+        ]
+      },
+      "properties": {
+        "Port_Name": "Neendakara",
+        "lat": 8.95,
+        "lon": 76.55,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 11,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1833,
+          12.1833
+        ]
+      },
+      "properties": {
+        "Port_Name": "Azhikkal",
+        "lat": 12.1833,
+        "lon": 75.1833,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "regular",
+        "port_order": 12,
+        "has_description": false,
+        "has_source": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9986,
+          8.3725
+        ]
+      },
+      "properties": {
+        "Port_Name": "Kovalam/Vizhinjam",
+        "lat": 8.3725,
+        "lon": 76.9986,
+        "state": "Kerala",
+        "location": "Kerala",
+        "country": "India",
+        "type_of_harbor": "nan",
+        "also_known_as": "nan",
+        "opened_in": "nan",
+        "main_trades": "nan",
+        "major_exports": "nan",
+        "major_imports": "nan",
+        "port_category": "verified",
+        "port_order": 13,
+        "has_description": false,
+        "has_source": true
+      }
+    }
+  ]
+}
